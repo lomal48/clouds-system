@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.numba_cache/
+dist/
+build/
+*.egg-info/
+.venv/
+.env
