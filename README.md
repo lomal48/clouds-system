@@ -29,4 +29,4 @@ snapshot = cs.build_snapshot(n_ticks=24)
 # snapshot.ticks            → np.ndarray (n_ticks, H, W), uint8
 ```
 
-See [USAGE.md](clouds_system/USAGE.md) for full API reference and [INTERNALS.md](clouds_system/INTERNALS.md) for implementation details.
+See [USAGE.md](https://github.com/lomal48/clouds-system/blob/main/clouds_system/USAGE.md) for full API reference and [INTERNALS.md](https://github.com/lomal48/clouds-system/blob/main/clouds_system/INTERNALS.md) for implementation details.
